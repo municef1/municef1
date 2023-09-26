@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-![GitHub followers](https://img.shields.io/github/followers/municef1?style=social) ![Website](https://img.shields.io/website?up_message=online&url=https://dacon.io/myprofile/447202/home)
+![GitHub followers](https://img.shields.io/github/followers/municef1?style=social) ![Website](https://img.shields.io/website?up_message=online&url=https://dacon.io/myprofile/447202/home) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
