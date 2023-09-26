@@ -53,6 +53,7 @@
 Dacon Competition challenger rank #8 👑  
 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 3%🥇 + LG aimers 본선 진출!🥇  
 
+[![esemoon's BOJ stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=esemoon)](https://www.acmicpc.net/user/esemoon)
 
 ![municef1's GitHub stats](https://github-readme-stats.vercel.app/api?username=municef1&show_icons=true&theme=radical)
 
