@@ -5,7 +5,13 @@
 ### Hi there 👋
 
 
-[![Gitter](https://img.shields.io/gitter/room/municef1/community)](https://gitter.im/municef1/community)
+![GitHub followers](https://img.shields.io/github/followers/municef1?style=social)
+
+![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+![GitHub top language](https://img.shields.io/github/languages/top/municef1/your-repo-name)
+
+[![Website](https://img.shields.io/website?up_message=online&url=https://dacon.io/myprofile/447202/home)](https://dacon.io/myprofile/447202/home)
 
 
 
