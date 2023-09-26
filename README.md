@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:EEFF00,100:a82da8&text=Welcome!&fontColor=FFFFFF&fontAlignY=20&desc=municef1%27s%20github&descAlign=80)
 
 
+
+
+<div align="center">
+
 ![GitHub followers](https://img.shields.io/github/followers/municef1?style=social) ![Website](https://img.shields.io/website?up_message=online&url=https://dacon.io/myprofile/447202/home)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/municef/) [![Dacon Profile](https://img.shields.io/badge/Dacon-Profile-blue?style=for-the-badge)](https://dacon.io/myprofile/447202/home)
 
-<div align="center">
 
 **Contact** : esemoon@gmail.com / LinkedIn DM  
 링크드인으로 DM도 가능합니다!
