@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/municef/) [![Dacon Profile](https://img.shields.io/badge/Dacon-Profile-blue?style=for-the-badge)](https://dacon.io/myprofile/447202/home)
 
-<p align="center">
+<div align="center">
 
 **Contact** : esemoon@gmail.com / [Linkedin](https://www.linkedin.com/in/municef/)  
 링크드인으로 DM도 가능합니다!
@@ -34,7 +34,7 @@
 - [23년 8월] Dacon Competition challenger rank #8 👑  
 - [23년 8월] 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 3%🥇 + LG aimers 본선 진출!🥇  
 
-</p>
+</div>
 
 
 
