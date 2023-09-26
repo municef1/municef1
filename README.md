@@ -54,3 +54,6 @@ Dacon Competition challenger rank #8 👑
 온라인 채널 제품 판매량 예측 AI 온라인 해커톤 3%🥇 + LG aimers 본선 진출!🥇  
 
 </div>
+
+
+![municef1's GitHub stats](https://github-readme-stats.vercel.app/api?username=municef1&show_icons=true&theme=radical)
