@@ -1,4 +1,4 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=#0A66C2&logoColor=#0000FF"/></a>
+<a href="https://www.linkedin.com/in/municef/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#00FF00?style=plastic&logo=#0A66C2&logoColor=#0000FF"/></a>
 
 ### Hi there 👋
 
