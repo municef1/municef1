@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/municef/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#00FF00?style=plastic&logo=#0A66C2&logoColor=#0000FF"/></a>
-<a href="https://www.linkedin.com/in/municef/"><img src="https://img.shields.io/badge/LinkedIn--00FF00?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/municef/"/></a>
+<a href="https://www.linkedin.com/in/municef/"><img src="https://img.shields.io/badge/LinkedIn--00FF00?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/municef/"/></a>
 
 
 <!--
